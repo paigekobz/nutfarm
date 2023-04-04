@@ -1,0 +1,9 @@
+path: C:/Users/pkobzar/please
+train: 'train'
+val: 'val'
+
+ 
+# class names
+names: 
+  0: 'nut'
+  1: '0620'
